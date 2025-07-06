@@ -1,4 +1,4 @@
-# 🚀 MVP Análise de Dados e Boas Práticas // Churn Explorer
+# 🚀 MVP Churn Explorer -- Análise de Churn e Cenários Preditivos sobre a Base de Clientes de um ISP
 
 **Desenvolvido por:** Marcelo Santos Araujo
 
