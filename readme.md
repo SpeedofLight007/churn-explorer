@@ -136,6 +136,6 @@ Visto que o sentimento humano é uma variável abstrata, traduzi-la em números 
 
 ## 👨‍💻 Autor
 
-* Marcelo Santos Araujo - [Link para seu GitHub/LinkedIn, ex: [GitHub](https://github.com/SpeedofLight007)]
+* Marcelo Santos Araujo - [Linkedin: (https://www.linkedin.com/in/s-a-marcelo/) GitHub: (https://github.com/SpeedofLight007)]
 
 ---
