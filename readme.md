@@ -31,7 +31,7 @@ As hipóteses que traçamos para desvendar o churn são:
 
 O coração da nossa análise é o dataset **Telco Customer Churn**, um conjunto de dados anonimizados de clientes de serviços de telecomunicações. Ele foi obtido diretamente da **Kaggle**, uma das maiores plataformas de dados do mundo. Escolhemos esta base por sua relevância e riqueza de atributos para o contexto de *churn*.
 
-* ** Dataset Original:** `Encontrado em Kaggle, via https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3`
+* **Dataset Original:** Encontrado em Kaggle, via `https://www.kaggle.com/datasets/alfathterry/telco-customer-churn-11-1-3`
 * **Link da Base de Dados:** `https://raw.githubusercontent.com/SpeedofLight007/churn-explorer/main/telco_dataset.csv`
 * **Tamanho da Base:** Contém **7.043 amostras** (registros de clientes), com **1.869 casos de churn** e **5.174 casos de não churn**.
 
