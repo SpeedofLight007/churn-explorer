@@ -1,6 +1,7 @@
 # 🚀 MVP Análise de Dados e Boas Práticas // Churn Explorer
 
 **Desenvolvido por:** Marcelo Santos Araujo
+
 **Matrícula:** 4052024002227
 
 ---
